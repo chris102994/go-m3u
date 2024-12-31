@@ -1,0 +1,7 @@
+#EXTM3U tvg-url="https://acme.com/epg/guides/xmltv.xml" x-tvg-url="https://acme.com/epg/guides/xmltv.xml"
+
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 1" tvg-logo="https://acme.com/logos/1.png" group-title="Group 1",Channel 1
+https://acme.com/live/1.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="https://acme.com/logos/2.png" group-title="Group 1",Channel 2
+https://acme.com/live/2.m3u8
